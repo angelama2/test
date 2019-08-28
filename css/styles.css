@@ -1,0 +1,36 @@
+ body{
+   background-image: url("sky.png");
+ }
+ h1{
+   color: white;
+   text-align: center;
+   font-family:monospace;
+   font-stretch: extra-expanded;
+   border: 2px solid pink;
+   border-radius: 5px;
+ }
+ h2{
+   color: pink;
+   font-family:monospace;
+ }
+p{
+  color: white;
+}
+ol{
+  color: lightgreen;
+}
+ul{
+  color: lightgreen;
+}
+a{
+  color:white;
+}
+img{
+  margin-left: 60px;
+  width: 150px;
+  height: 150px;
+  radius: 5px;
+}
+div{
+  background-image: url("") 
+}
