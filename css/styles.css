@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
  body{
    background-image: url("sky.png");
  }
@@ -13,17 +14,36 @@
    color: pink;
    font-family:monospace;
  }
-p{
+=======
+h1{
   color: white;
+  text-align: center;
+  font-family:monospace;
+  font-stretch: extra-expanded;
+  border: 2px solid pink;
+  border-radius: 5px;
 }
+
+h2{
+  color: pink;
+  font-family:monospace;
+}
+
+>>>>>>> Stashed changes
+p{
+ color: white;
+}
+
 ol{
-  color: lightgreen;
+ color: lightgreen;
 }
+
 ul{
-  color: lightgreen;
+ color: lightgreen;
 }
+
 a{
-  color:white;
+ color:white;
 }
 img{
   margin-left: 60px;
@@ -32,5 +52,16 @@ img{
   radius: 5px;
 }
 .content {
-  background-image: url("")
+ background-image: url("")
 }
+<<<<<<< Updated upstream
+=======
+
+.symbol {
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 25px;
+ height: 25px;
+}
+>>>>>>> Stashed changes
