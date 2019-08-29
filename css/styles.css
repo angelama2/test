@@ -1,20 +1,3 @@
-
- body{
-   background-image: url("sky.png");
- }
- h1{
-   color: white;
-   text-align: center;
-   font-family:monospace;
-   font-stretch: extra-expanded;
-   border: 2px solid pink;
-   border-radius: 5px;
- }
- h2{
-   color: pink;
-   font-family:monospace;
- }
-=======
 h1{
   color: white;
   text-align: center;
@@ -45,12 +28,14 @@ a{
  color:white;
 }
 
+.content {
+ background-image: url("")
 }
 
 .symbol {
  display: block;
  margin-left: auto;
  margin-right: auto;
- width: 25px;
- height: 25px;
+ width: 20px;
+ height: 20px;
 }
