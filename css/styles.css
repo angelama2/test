@@ -1,5 +1,4 @@
- body{
-   background-image: url("sky.png");
+
  }
  h1{
    color: white;
@@ -25,12 +24,15 @@ ul{
 a{
   color:white;
 }
-img{
-  margin-left: 60px;
-  width: 150px;
-  height: 150px;
-  radius: 5px;
-}
+
 .content {
   background-image: url("")
+}
+
+.symbol {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25px;
+  height: 25px;
 }
