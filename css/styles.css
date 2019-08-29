@@ -8,8 +8,14 @@ h1{
 }
 
 h2{
-  color: pink;
+  padding-top: -20px;
+  text-align: center;
+  color: white;
   font-family:monospace;
+  background-color:#343a40 ;
+  font-size: 30px;
+  font-family: ;
+  margin-bottom: -0.5px;
 }
 
 p{
@@ -38,4 +44,16 @@ a{
  margin-right: auto;
  width: 20px;
  height: 20px;
+ margin-bottom: -20px;
+}
+
+.carousel img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
+}
+
+.nav-link {
+  font-family: verdana;
 }
