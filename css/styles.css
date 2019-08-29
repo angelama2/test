@@ -1,35 +1,25 @@
-h1{
-  color: white;
-  text-align: center;
-  font-family:monospace;
-  font-stretch: extra-expanded;
-  border: 2px solid pink;
-  border-radius: 5px;
-}
 
 h2{
-  color: pink;
+  color: grey;
   font-family:monospace;
+  text-align:center;
+}
+
+h4{
+  color: navy;
+  text-align:justify;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 50px;
+  margin-left: 50px;
 }
 
 p{
  color: white;
 }
 
-ol{
- color: lightgreen;
-}
-
-ul{
- color: lightgreen;
-}
-
 a{
  color:white;
-}
-
-.content {
- background-image: url("")
 }
 
 .symbol {
