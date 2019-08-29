@@ -1,3 +1,10 @@
 body{
   background-image: url("");
 }
+.symbol {
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 20px;
+ height: 20px;
+}
