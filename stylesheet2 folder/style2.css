@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+}
+
+body{
+  background-color: black;
+  color: white;
+}
+
+.picture {
+  align-items: center;
+}
+
+.key_skills {
+  font-family: Georgia, serif;
+}
+
+p {
+
+  text-align: center;
+}
