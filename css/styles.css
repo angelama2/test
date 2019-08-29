@@ -1,4 +1,4 @@
-<<<<<<< Updated upstream
+
  body{
    background-image: url("sky.png");
  }
@@ -29,7 +29,6 @@ h2{
   font-family:monospace;
 }
 
->>>>>>> Stashed changes
 p{
  color: white;
 }
@@ -45,17 +44,8 @@ ul{
 a{
  color:white;
 }
-img{
-  margin-left: 60px;
-  width: 150px;
-  height: 150px;
-  radius: 5px;
+
 }
-.content {
- background-image: url("")
-}
-<<<<<<< Updated upstream
-=======
 
 .symbol {
  display: block;
@@ -64,4 +54,3 @@ img{
  width: 25px;
  height: 25px;
 }
->>>>>>> Stashed changes
