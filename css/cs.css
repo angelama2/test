@@ -1,6 +1,19 @@
 body{
   background-image: url("css/computer_background.jpg");
 }
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+h1 {
+  color: grey;
+  text-align: center;
+  font-family:monospace;
+}
 .symbol {
  display: block;
  margin-left: auto;
@@ -46,21 +59,33 @@ body{
 .fa-twitter {
   background: #55ACEE;
   color: white;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
 }
 
 .fa-linkedin {
   background: #007bb5;
   color: white;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
 }
 
 .fa-youtube {
   background: #bb0000;
   color: white;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
 }
 
 .fa-instagram {
   background: #125688;
   color: white;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
 }
 
 .footer{
