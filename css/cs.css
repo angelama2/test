@@ -1,50 +1,13 @@
-.contactform{
-  color:black;
+body{
+  background-image: url("css/computer_background.jpg");
 }
-
-h2{
-  color: grey;
-  font-family:monospace;
-  text-align:center;
-}
-
-h4{
-  color: navy;
-  text-align:justify;
-  margin-top: 50px;
-  margin-bottom: 50px;
-  margin-right: 50px;
-  margin-left: 50px;
-}
-
-p{
- color: white;
-}
-
-a{
- color:black;
-}
-
 .symbol {
  display: block;
  margin-left: auto;
  margin-right: auto;
  width: 20px;
  height: 20px;
- margin-bottom: -20px;
 }
-
-.carousel img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 100px;
-}
-
-.nav-link {
-  font-family: verdana;
-}
-
 .fa {
   padding: 20px;
   font-size: 30px;
@@ -86,6 +49,7 @@ a{
   background: #125688;
   color: white;
 }
+
 .footer{
   background-color: grey;
 }
