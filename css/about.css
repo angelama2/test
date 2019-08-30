@@ -5,7 +5,17 @@
   width: 20px;
   height: 20px;
 }
-h3{
+
+.degree_finder{
+  background-color: grey;
+}
+h2 {
+  font-family: monospace;
+  color: grey;
+  text-align: center;
+}
+
+h3 {
   text-align:center;
   font-family:monospace;
 }
@@ -26,7 +36,7 @@ h3{
 
 }
 
-.jumbotron{
+.jumbotron {
   background-image: url(https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiRxsC_m6rkAhUFxhoKHTpIAw4QjRx6BAgBEAU&url=https%3A%2F%2Fin.mashable.com%2Fscience%2F3303%2Fnasa-shares-the-most-detailed-image-of-outer-space-ever-and-were-awestruck&psig=AOvVaw06gWTsJB3gYFSTFaJlEnsj&ust=1567241447010298);
 }
 
