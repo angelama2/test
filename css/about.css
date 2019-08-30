@@ -5,29 +5,19 @@
   width: 20px;
   height: 20px;
 }
-
-.column {
-  color: white;
-  background-color: #000080;
-  margin: auto;
-  float: left;
-  width: 50%;
+h3{
+  text-align:center;
+  font-family:monospace;
+}
+.container-fluid {
+  text-align:justify;
+  image: url(css/space_background.jpeg)
 }
 
-/* Clear floats after the columns */
-.row:after {
-  content: "  ";
-  display: table;
-  clear: both;
-}
-.degree_finder {
-
-  background-color: #a9a9a9;
-
-}
-
-.button {
-  align-items: center;
+.row {
+  background-image: url(css/space_background.jpeg)
+  opacity: 0.5;
+  filter: alpha(opacity=50);
 }
 
 .general_info {
@@ -45,7 +35,8 @@
 .jumbotron{
   background-image: url(https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiRxsC_m6rkAhUFxhoKHTpIAw4QjRx6BAgBEAU&url=https%3A%2F%2Fin.mashable.com%2Fscience%2F3303%2Fnasa-shares-the-most-detailed-image-of-outer-space-ever-and-were-awestruck&psig=AOvVaw06gWTsJB3gYFSTFaJlEnsj&ust=1567241447010298);
 }
-.footer{
+
+.footer {
   background-color: grey;
 }
 
@@ -69,6 +60,7 @@
 .nav-link {
   font-family: verdana;
 }
+
 /* Add a hover effect if you want */
 .fa:hover {
   opacity: 0.7;
@@ -86,19 +78,31 @@
 .fa-twitter {
   background: #55ACEE;
   color: white;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
 }
 
 .fa-linkedin {
   background: #007bb5;
   color: white;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
 }
 
 .fa-youtube {
   background: #bb0000;
   color: white;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
 }
 
 .fa-instagram {
   background: #125688;
   color: white;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
 }
