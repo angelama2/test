@@ -31,6 +31,18 @@ a{
  margin-right: auto;
  width: 20px;
  height: 20px;
+ margin-bottom: -20px;
+}
+
+.carousel img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
+}
+
+.nav-link {
+  font-family: verdana;
 }
 
 .fa {

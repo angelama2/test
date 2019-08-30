@@ -1,0 +1,23 @@
+h1{
+  text-align: center;
+  font-family: monospace;
+}
+
+body{
+  background-color: black;
+  color: white;
+}
+
+.picture{
+  align-items: center;
+}
+
+.key_skills{
+  font-family: monospace;
+
+}
+
+p{
+  text-align: center;
+  font-family: monospace;
+}
