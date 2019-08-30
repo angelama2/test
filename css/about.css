@@ -6,6 +6,25 @@
   height: 20px;
 }
 
+.column {
+  color: white;
+  background-color: #000080;
+  margin: auto;
+  float: left;
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "  ";
+  display: table;
+  clear: both;
+}
+.degree_finder {
+
+  background-color: #a9a9a9;
+
+}
 .footer{
   background-color: grey;
 }
