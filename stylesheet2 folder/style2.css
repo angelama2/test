@@ -1,5 +1,6 @@
-h1 {
+h1{
   text-align: center;
+  font-family: monospace;
 }
 
 body{
@@ -7,15 +8,16 @@ body{
   color: white;
 }
 
-.picture {
+.picture{
   align-items: center;
 }
 
-.key_skills {
-  font-family: Georgia, serif;
+.key_skills{
+  font-family: monospace;
+
 }
 
-p {
-
+p{
   text-align: center;
+  font-family: monospace;
 }
