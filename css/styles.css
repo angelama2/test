@@ -2,6 +2,10 @@
   color:black;
 }
 
+a{
+ color:white;
+}
+
 h2{
   color: grey;
   font-family:monospace;
@@ -21,9 +25,6 @@ p{
  color: white;
 }
 
-a{
- color:black;
-}
 
 .symbol {
  display: block;
