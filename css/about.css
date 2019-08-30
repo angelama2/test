@@ -25,6 +25,25 @@
   background-color: #a9a9a9;
 
 }
+
+.button {
+  align-items: center;
+}
+
+.general_info {
+  color: grey;
+  text-align: center;
+  font-family:monospace;
+}
+
+.astronaut_jumbotron {
+  text-align: justify;
+  color: black;
+}
+
+.jumbotron{
+  background-image: url(https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiRxsC_m6rkAhUFxhoKHTpIAw4QjRx6BAgBEAU&url=https%3A%2F%2Fin.mashable.com%2Fscience%2F3303%2Fnasa-shares-the-most-detailed-image-of-outer-space-ever-and-were-awestruck&psig=AOvVaw06gWTsJB3gYFSTFaJlEnsj&ust=1567241447010298);
+}
 .footer{
   background-color: grey;
 }
@@ -49,7 +68,6 @@
 .nav-link {
   font-family: verdana;
 }
-
 /* Add a hover effect if you want */
 .fa:hover {
   opacity: 0.7;
@@ -67,31 +85,19 @@
 .fa-twitter {
   background: #55ACEE;
   color: white;
-  margin-left: auto;
-  margin-right: auto;
-  width: 100px;
 }
 
 .fa-linkedin {
   background: #007bb5;
   color: white;
-  margin-left: auto;
-  margin-right: auto;
-  width: 100px;
 }
 
 .fa-youtube {
   background: #bb0000;
   color: white;
-  margin-left: auto;
-  margin-right: auto;
-  width: 100px;
 }
 
 .fa-instagram {
   background: #125688;
   color: white;
-  margin-left: auto;
-  margin-right: auto;
-  width: 100px;
 }
