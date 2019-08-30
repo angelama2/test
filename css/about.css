@@ -12,9 +12,10 @@
   font-family:monospace;
 }
 
-.astronaut_jumbotron {
+.jumbotron {
+  color: white;
   text-align: justify;
-  color: black;
+
 }
 
 .jumbotron{
