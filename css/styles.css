@@ -67,6 +67,9 @@ p{
 .fa-facebook {
   background: #3B5998;
   color: white;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
 }
 
 /* Twitter */
